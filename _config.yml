@@ -3,7 +3,7 @@ name: Canadian Infosec Survey
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+highlighter: rogue
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: https://www.infosecsurvey.ca
