@@ -1,5 +1,7 @@
 ##The website title
 name: Canadian Infosec Survey
+
+plugins: [jekyll-paginate]
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
@@ -7,6 +9,7 @@ highlighter: rogue
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: https://www.infosecsurvey.ca
+url: https://www.infosecsurvey.ca
 sass:
   sass_dir: _sass
   style: :compressed
@@ -25,13 +28,14 @@ keywords: infosec, survey, salary, remote, canada
 #ga_domain: analyticsDomain
 
 ##Some commonly used links
-#links:
+links:
 #  facebook: username
-#  twitter: username
+  twitter: infosecsurveyca
 #  email: username@gmail.com
-#  github: username
+  github: infosecsurvey
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: bubble.png
+about_image: survey.png
+ico_path: img/ico
 ##comment this if you want full width posts with no sidebar
 sidebar: on
