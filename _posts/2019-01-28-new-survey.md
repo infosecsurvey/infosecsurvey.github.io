@@ -2,7 +2,7 @@
 layout: post
 title:  "2019 Infosec Salary Survey"
 date:   2019-01-29 12:00:00
-categories: infosec, salary, survey
+categories: infosec salary survey
 ---
 
 We've just locked the survey for 2018, and created the [2019 Canadian Information Security Survey][2019survey].
