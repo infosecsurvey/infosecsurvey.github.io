@@ -10,7 +10,7 @@ sitemap:
 
 ## CSV Data on GitHub
 
-- https://github.com/infosecsurvey/survey-data
+- [github.com/infosecsurvey/survey-data](https://github.com/infosecsurvey/survey-data/)
 
 ## Raw Results:
 
