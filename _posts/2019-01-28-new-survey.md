@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 Infosec Salary Survey"
-date:   2019-01-29 00:00:00
+date:   2019-01-29 12:00:00
 categories: infosec, salary, survey
 ---
 
