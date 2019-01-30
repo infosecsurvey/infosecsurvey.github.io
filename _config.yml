@@ -1,7 +1,9 @@
 ##The website title
 name: Canadian Infosec Survey
 
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
@@ -33,9 +35,12 @@ links:
   twitter: infosecsurveyca
 #  email: username@gmail.com
   github: infosecsurvey
+  rss: /feed.xml
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: survey.png
 ico_path: img/ico
 ##comment this if you want full width posts with no sidebar
 sidebar: on
+
+
