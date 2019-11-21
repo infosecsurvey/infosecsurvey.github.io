@@ -24,9 +24,9 @@ sitemap:
   - [2018 Results as CSV][2018csv]
 
 [survey-data]: https://github.com/infosecsurvey/survey-data/
-[2018afr]: https://docs.google.com/forms/d/1EU2R_As-in1kLBFuJGuQt6wygN1C7yMRz_KlT8o-WFU/edit#responses
+[2018afr]: https://docs.google.com/forms/d/1EU2R_As-in1kLBFuJGuQt6wygN1C7yMRz_KlT8o-WFU/viewanalytics
 [2018frgs]: https://docs.google.com/spreadsheets/d/17gTj70DNvP4fkcmoIyjwJYLq2LlRE8fHaVMGhgHA7Zw/edit?usp=sharing
 [2018csv]: https://github.com/infosecsurvey/survey-data/blob/master/2018/2018-survey-response.csv
 [2019frgs]: https://docs.google.com/spreadsheets/d/1gxSOi5Yj8Wy2Mt16QomxrkkGUa8WV27zQf4KBk5Sw3A/edit?usp=sharing
-[2019afr]:https://docs.google.com/forms/d/1Cp8-hDI5bDkY2znItkigXuGHoGncOuVsQRShz-KiWVY/
+[2019afr]: https://docs.google.com/forms/d/1Cp8-hDI5bDkY2znItkigXuGHoGncOuVsQRShz-KiWVY/viewanalytics
 [2019csv]: https://github.com/infosecsurvey/survey-data/blob/master/2019/2019-survey-response.csv
