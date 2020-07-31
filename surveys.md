@@ -8,7 +8,7 @@ sitemap:
 ---
 # Surveys
 
-- [20220 Survey][2020survey] - Active
+- [2020 Survey][2020survey] - Active
 - [2019 Survey][2019survey] - Read-only
 - [2018 Survey, April-December][2018survey] - Read-only
 
