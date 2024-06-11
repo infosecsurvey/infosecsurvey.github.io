@@ -10,8 +10,8 @@ markdown: kramdown
 highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: https://www.infosecsurvey.ca
-url: https://www.infosecsurvey.ca
+base_url: https://infosecsurvey.ca
+url: https://infosecsurvey.ca
 sass:
   sass_dir: _sass
   style: :compressed

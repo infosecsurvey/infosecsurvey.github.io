@@ -1,3 +1,3 @@
-# www.infosecsurvey.ca
+# infosecsurvey.ca
 
-Site for www.infosecsurvey.ca
+Site for infosecsurvey.ca
